@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guruprasadgv
 - 👀 I’m interested in Learning new technologies
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on crypto Projects
+- 💞️ I’m looking to collaborate on Crypto Projects
 - 📫 How to reach me gurumec939@gmail.com
 
 <!---
